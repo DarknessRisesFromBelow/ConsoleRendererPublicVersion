@@ -1,0 +1,15 @@
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\obj\Debug\net6.0\Console-Renderer.csproj.AssemblyReference.cache
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\obj\Debug\net6.0\Console-Renderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\obj\Debug\net6.0\Console-Renderer.AssemblyInfoInputs.cache
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\obj\Debug\net6.0\Console-Renderer.AssemblyInfo.cs
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\obj\Debug\net6.0\Console-Renderer.csproj.CoreCompileInputs.cache
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\bin\Debug\net6.0\Console-Renderer.exe
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\bin\Debug\net6.0\Console-Renderer.deps.json
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\bin\Debug\net6.0\Console-Renderer.runtimeconfig.json
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\bin\Debug\net6.0\Console-Renderer.dll
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\bin\Debug\net6.0\ref\Console-Renderer.dll
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\bin\Debug\net6.0\Console-Renderer.pdb
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\obj\Debug\net6.0\Console-Renderer.dll
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\obj\Debug\net6.0\ref\Console-Renderer.dll
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\obj\Debug\net6.0\Console-Renderer.pdb
+C:\Users\yair medina\Desktop\Projects\Console-Renderer\obj\Debug\net6.0\Console-Renderer.genruntimeconfig.cache
